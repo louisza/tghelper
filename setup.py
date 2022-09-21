@@ -15,11 +15,6 @@ setup_args = dict(
     license='MIT',
     packages=find_packages('tghelper'),
     package_dir={'': 'src'},
-    author="Louis Pienaar",
-    author_email='lpienaar@gmail.com',
-    keywords=['TigerGraph'],
-    url='https://github.com/louisza/tghelper',
-    download_url='https://pypi.org/project/tghelper/'
 )
 
 install_requires = ['pyTigerGraph'
