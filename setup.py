@@ -22,7 +22,7 @@ setup_args = dict(
     download_url='https://pypi.org/project/tghelper/'
 )
 
-install_requires = ['pyTigerGraph']
+install_requires = ['pyTigerGraph'
 ]
 
 if __name__ == '__main__':
