@@ -21,3 +21,7 @@ git clone https://github.com/louisza/tghelper.git
 cd tghelper
 pip install --editable .
 ```
+
+## pypi Build reminder (for the developers)
+
+```bash
