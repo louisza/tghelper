@@ -19,6 +19,8 @@ extensions = ['sphinx.ext.napoleon', 'sphinx_mdinclude']
 templates_path = ['_templates']
 exclude_patterns = []
 
+master_doc = 'index'
+
 
 
 # -- Options for HTML output -------------------------------------------------
