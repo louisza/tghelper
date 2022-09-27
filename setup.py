@@ -9,14 +9,14 @@ with open('HISTORY.md') as history_file:
 setup_args = dict(
 
     name='tghelper',
-    version='0.1.0',
+    version='0.1.2',
     description='Useful tools to work with TigerGraph in Python',
     long_description_content_type="text/markdown",
     long_description=README + '\n\n' + HISTORY,
     license='MIT',
     packages=find_packages(),
     author='Louis Pienaar',
-    author_email='lpienaar@gmail.com',
+    author_email='louisza1000101@gmail.com',
     keywords=['TigerGraph'],
     url='https://github.com/louisza/tghelper',
     download_url='https://pypi.org/project/tghelper/'
