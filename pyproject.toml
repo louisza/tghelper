@@ -1,0 +1,5 @@
+[project.urls]
+"Homepage" = "https://github.com/louisza/tghelper"
+"Documentation" = "https://tghelper.readthedocs.io/"
+"Bug Tracker" = "https://github.com/louisza/tghelper/issues"
+
