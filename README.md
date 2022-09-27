@@ -25,3 +25,4 @@ pip install --editable .
 ## pypi Build reminder (for the developers)
 
 ```bash
+python3 setup.py sdist bdist_wheel
