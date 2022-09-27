@@ -24,7 +24,7 @@ tg_conn = pyTigerGraph.TigerGraphConnection(host="http://127.0.0.1", graphname="
 tgh = TgHelper(conn=tg_conn)
 tgh.execute_gsql("my_gsql_statement.gsql")
 
-tgh.upload_job(source_ffile="my_data.csv", 
+tgh.upload_job(source_file="my_data.csv", 
                job="my_loading_job", 
                job_filename="job_filename")
 
