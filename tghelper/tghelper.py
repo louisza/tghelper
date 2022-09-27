@@ -68,8 +68,8 @@ class TgUpload:
     multiproccesing
 
     """
-    def __init__(self, source_file, tg_conn, job, job_filename, lines_per_file=1000000, no_workers=5,
-                timeout = 500000):
+    def __init__(self, source_file, tg_conn, job, job_filename, lines_per_file=1000000,
+                 no_workers=5, timeout=500000):
         """
 
         Args:
